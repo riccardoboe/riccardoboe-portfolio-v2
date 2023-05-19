@@ -1,6 +1,6 @@
 # Riccardoboe's portfolio
 Welcome to the 2nd version of my portfolio!
- (`<br>`)
+<br>
 To check it out: **[click here](https://riccardoboe.netlify.app/)**
 
 ## Description
