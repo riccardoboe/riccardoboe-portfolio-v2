@@ -1,7 +1,7 @@
 # Riccardoboe's portfolio
 Welcome to the 2nd version of my portfolio!
 <br>
-To check it out: **[click here](https://riccardoboe.netlify.app/)**
+<a href="https://riccardoboe.netlify.app/" target="_blank"> Click here to visit my portfolio </a>
 
 ## Description
 
