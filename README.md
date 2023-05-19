@@ -14,3 +14,8 @@ This portfolio was built with React and the backend is built with Sanity. Which 
 - Next.js
 - SCSS
 - Sanity
+
+
+### To do
+
+- Add projects to database
